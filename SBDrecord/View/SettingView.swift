@@ -42,23 +42,14 @@ struct SettingView: View {
                         .tag(600)
                     Text("650")
                         .tag(650)
-                    
-                    
-                    
-                    
-                    
                 }label: {
                     Text("選択")
                 }
                 .pickerStyle(.wheel)
                 
-                
                 Spacer()
-                
             }
         }
-        
-        
     }
 }
 
